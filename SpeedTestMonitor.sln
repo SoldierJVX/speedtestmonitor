@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedTestMonitor", "SpeedTestMonitor\SpeedTestMonitor.csproj", "{FA7D305D-4891-4D56-BC62-8FCABE7A13C5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{63C29FDF-6807-4885-B4DB-01C4A99A36BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA7D305D-4891-4D56-BC62-8FCABE7A13C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7D305D-4891-4D56-BC62-8FCABE7A13C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7D305D-4891-4D56-BC62-8FCABE7A13C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7D305D-4891-4D56-BC62-8FCABE7A13C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C29FDF-6807-4885-B4DB-01C4A99A36BD}.Debug|Any CPU.ActiveCfg = Debug
+		{63C29FDF-6807-4885-B4DB-01C4A99A36BD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {555432DB-0964-409A-A375-AD414247B38A}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
